@@ -1,6 +1,6 @@
-# 🎙️ Moji Text-to-Speech App 🗣️
+# 🎙️ Text-to-Speech App 🗣️
 
-Turn your text into voice with **Moji Text-to-Speech** – a super simple yet powerful app! 🚀 Whether you’re practicing pronunciation, creating audio notes, or just having fun, this app has got you covered! 🎉
+Turn your text into voice with **Text-to-Speech** – a super simple yet powerful app! 🚀 Whether you’re practicing pronunciation, creating audio notes, or just having fun, this app has got you covered! 🎉
 
 ---
 
@@ -37,10 +37,10 @@ pip install pyttsx3
 ---
 
 ## 🎬 How to Get Started  
-1. Save the script as `moji_text_to_speech.py`.  
+1. Save the script as `text_to_speech.py`.  
 2. Run the script:  
    ```bash
-   python moji_text_to_speech.py
+   python text_to_speech.py
    ```  
 3. Enjoy the magic of hearing your text spoken aloud! 🔊  
 
@@ -48,5 +48,5 @@ pip install pyttsx3
 
 💡 **Pro Tip**: Use this app for learning languages, practicing speech, or even as an accessibility tool! 🌟  
 
-Let **Moji Text-to-Speech** make your words heard! 🎙️  
+Let **Text-to-Speech** make your words heard! 🎙️  
 Happy speaking! 🎉✨
